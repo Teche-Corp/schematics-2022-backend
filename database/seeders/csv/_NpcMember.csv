@@ -1,0 +1,4 @@
+id,member_type,team_id,user_id,nisn,surat_url,no_telp,no_wa,id_line,discord_tag,alamat,info_sch,status
+1,Ketua,1,1,1234567890,https://drive.google.com/file/d/1Bi3SRnabwqzai_sdU5e9fsJ0dnKse8s3/view?usp=sharing,+6285809058616,+6285809058616,antogeming,test,Desa Jeruk,test,active
+2,Ketua,2,3,1234567895,https://drive.google.com/file/d/1Bi3SRnabwqzai_sdU5e9fsJ0dnKse8s3/view?usp=sharing ,+6285809058616,+6285809058616,antogeming,test,Desa Jeruk,test,active
+3,Anggota,1,2,1234567895,https://drive.google.com/file/d/1Bi3SRnabwqzai_sdU5e9fsJ0dnKse8s3/view?usp=sharing ,+6285809058616,+6285809058616,antogeming,test,Desa Jeruk,test,active
